@@ -1,0 +1,106 @@
+﻿  main.cpp
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(15,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(55,44): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(55,32): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(98,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(262,46): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(262,46): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(262,46): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(262,46): warning C4244:             T=int
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(262,46): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(275,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(443,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(443,42): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(443,42): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(443,42): warning C4244:             T=float
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(443,42): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(443,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(443,32): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(443,32): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(443,32): warning C4244:             T=float
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(443,32): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(448,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(448,51): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(448,51): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(448,51): warning C4244:             T=float
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(448,51): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(448,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(448,32): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(448,32): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(448,32): warning C4244:             T=float
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(448,32): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(453,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(453,51): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(453,51): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(453,51): warning C4244:             T=float
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(453,51): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(453,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(453,32): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(453,32): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(453,32): warning C4244:             T=float
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(453,32): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(470,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(470,43): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(470,43): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(470,43): warning C4244:             T=float
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(470,43): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(475,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(475,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(479,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(479,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(506,29): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(506,29): warning C4309: 'argument': truncation of constant value
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(834,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(834,43): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(834,43): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(834,43): warning C4244:             T=int
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(834,43): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(849,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(849,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(872,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(872,49): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(872,49): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(872,49): warning C4244:             T=int
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(872,49): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(881,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(881,53): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(881,53): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(881,53): warning C4244:             T=int
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(881,53): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(881,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(881,41): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(881,41): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(881,41): warning C4244:             T=int
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(881,41): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(886,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(886,59): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(886,59): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(886,59): warning C4244:             T=int
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(886,59): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(886,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(886,42): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(886,42): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(886,42): warning C4244:             T=int
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(886,42): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(896,61): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(896,61): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(896,61): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(896,61): warning C4244:             T=int
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(896,61): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(896,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(896,50): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(896,50): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(896,50): warning C4244:             T=int
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(896,50): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(901,65): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(901,65): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(901,65): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(901,65): warning C4244:             T=int
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(901,65): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(901,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(901,50): warning C4244:         with
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(901,50): warning C4244:         [
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(901,50): warning C4244:             T=int
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(901,50): warning C4244:         ]
+C:\Users\Dell\source\repos\SP Project (icy tower)\SP Project (icy tower)\main.cpp(925,39): warning C4305: '+=': truncation from 'double' to 'float'
+  SP Project (icy tower).vcxproj -> C:\Users\Dell\source\repos\SP Project (icy tower)\x64\Debug\SP Project (icy tower).exe
